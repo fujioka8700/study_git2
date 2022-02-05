@@ -1,5 +1,6 @@
 header
 image
+movie
 logo
 body
 title
